@@ -1,1 +1,1 @@
-Ronaldo and Messi are football players.
+Git and GitHub.
